@@ -1,15 +1,27 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Kritish Sainju and I'm a Full-Stack Web Developer, from Nepal.</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Kritish Sainju and I'm an Independent Full-Stack Web Developer & Cybersecurity Analyst, from Nepal.</h2>
 
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <!-- GitHub Profile Summary Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&langs_count=5" height="150" alt="Top Languages" />
 </div>
 
 ###
 
+<!-- GitHub Dynamic Trophy Case -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+###
+
+## 🛠️ Core Tech Stack & Tools
+
 <div data-importer="techs" align="left">
+  <!-- Frontend & Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -18,21 +30,43 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
+  <!-- Backend & Database -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="30" alt="firebase logo" />
+  <img width="12" />
+  <!-- Environment & Security -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" alt="linux logo" />
 </div>
 
 ###
 
-## 🚀 Projects
+## 🛡️ Cybersecurity & Systems Focus
+*   **Vulnerability Assessments & Net-Sec:** Network scanning, penetration testing routing setups, and security vector mitigation.
+*   **Secure Implementation:** Multi-layer application security featuring strict JWT token rotations, route proxy shielding, and real-time vulnerability monitoring via automated tracking integrations.
+
+###
+
+## 🚀 Featured Web Systems
 
 *   **Auction Hall** – A real-time MERN-stack auction platform featuring high-concurrency bid management and instant live validation using Socket.io.
 *   **GlobeTrotter** – A full-scale travel management platform built with Next.js, Firebase, and interactive dynamic mapping powered by Leaflet.
 *   **Kaya Tattoo Studio Web Platform** – Design and production deployment of a bespoke, fully optimized brand interface.
 *   **Custom CMS Admin Panel** – An automated, internal content management system featuring a real-time professional PDF resume generation tool using `@react-pdf/renderer`.
+
+###
+
+## 📊 Contribution Graph & Metric Streaks
+
+<div align="center">
+  <!-- Dynamic Contribution Graph Card -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula&bg_color=282a36&color=ff79c6&line=ff79c6&point=bd93f9&area=true&hide_border=false" width="100%" alt="Contribution Graph" />
+  <br /><br />
+  <!-- Commit Streak Counter -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=false" alt="GitHub Streak" height="150"/>
+</div>
 
 ###
 
