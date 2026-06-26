@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Kritish Sainju and I'm an Independent Full-Stack Web Developer & Cybersecurity Analyst, from Nepal.</h2>
+<h2 data-importer="text" align="left">Hey!! Kritish Sainju Here. I'm an Independent Full-Stack Web Developer</h2>
 
 ###
 
@@ -12,9 +12,9 @@
 ###
 
 <!-- GitHub Dynamic Trophy Case -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=govergu&theme=dracula&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+</div> -->
 
 ###
 
@@ -40,12 +40,6 @@
   <!-- Environment & Security -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" alt="linux logo" />
 </div>
-
-###
-
-## 🛡️ Cybersecurity & Systems Focus
-*   **Vulnerability Assessments & Net-Sec:** Network scanning, penetration testing routing setups, and security vector mitigation.
-*   **Secure Implementation:** Multi-layer application security featuring strict JWT token rotations, route proxy shielding, and real-time vulnerability monitoring via automated tracking integrations.
 
 ###
 
@@ -80,4 +74,4 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/govergu/govergu/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/govergu/snake-output/snake.svg" alt="Snake animation" />
