@@ -1,4 +1,8 @@
 <h2 data-importer="text" align="left">Hey!! Kritish Sainju Here. I'm an Independent Full-Stack Web Developer</h2>
+<h1 align="left">
+  <img src="https://demolab.com." alt="Typing Effect" />
+</h1>
+
 
 ###
 
@@ -72,8 +76,8 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/govergu/govergu/snake-output/snake.svg" alt="Snake animation" />
+<!-- <img data-importer="snake" src="https://raw.githubusercontent.com/govergu/govergu/snake-output/snake.svg" alt="Snake animation" /> -->
 
 ###
