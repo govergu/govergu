@@ -1,8 +1,10 @@
-# Hey!! Kritish Sainju Here 👋
+# Hey 👋 Kritish Sainju Here 
 
 <h3 align="left">
-  <img src="https://herokuapp.com..." alt="Typing Effect" />
-</h3>
+  <!-- <img src="https://herokuapp.com..." alt="Typing Effect" /> -->
+  FULLSTACK DEVELOPER
+</h3> 
+
 
 ###
 
