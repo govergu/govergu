@@ -1,8 +1,8 @@
-<h2 data-importer="text" align="left">Hey!! Kritish Sainju Here. I'm an Independent Full-Stack Web Developer</h2>
-<h1 align="left">
-  <img src="https://demolab.com." alt="Typing Effect" />
-</h1>
+# Hey!! Kritish Sainju Here 👋
 
+<h3 align="left">
+  <img src="https://herokuapp.com..." alt="Typing Effect" />
+</h3>
 
 ###
 
