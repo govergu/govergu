@@ -1,4 +1,7 @@
-# Hey 👋 Kritish Sainju Here ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgovergu%2F&countColor=%23263759&style=flat-square&labelStyle=none)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h1 style="margin: 0;">Hey 👋 Kritish Sainju Here</h1>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgovergu%2F&countColor=%23263759&style=flat-square&labelStyle=none" alt="Visitors">
+</div>
 
 <h3 align="left">
   <!-- <img src="https://herokuapp.com..." alt="Typing Effect" /> -->
