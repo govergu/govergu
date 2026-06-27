@@ -43,6 +43,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="30" alt="firebase logo" />
   <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="30" alt="express logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="30" alt="prisma logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+<img width="12" />
   <!-- Environment & Security -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" alt="linux logo" />
 </div>
