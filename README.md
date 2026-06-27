@@ -1,5 +1,5 @@
 # Hey 👋 Kritish Sainju Here ![Visitor Badge](https://visitorbadge.io)
-![Profile Views](https://komarev.com)
+![Profile Views](https://komarev.com/ghpvc/?username=govergu)
 ![Hits](https://seeyoufarm.com)
 
 <h3 align="left">
