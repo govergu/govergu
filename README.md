@@ -1,6 +1,4 @@
-# Hey 👋 Kritish Sainju Here ![Visitor Badge](https://visitorbadge.io)
-![Profile Views](https://komarev.com/ghpvc/?username=govergu)
-![Hits](https://seeyoufarm.com)
+# Hey 👋 Kritish Sainju Here ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgovergu%2F&countColor=%23263759&style=flat-square&labelStyle=none)
 
 <h3 align="left">
   <!-- <img src="https://herokuapp.com..." alt="Typing Effect" /> -->
