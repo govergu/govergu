@@ -1,9 +1,12 @@
-# Hey 👋 Kritish Sainju Here 
+# Hey 👋 Kritish Sainju Here ![Visitor Badge](https://visitorbadge.io)
+![Profile Views](https://komarev.com)
+![Hits](https://seeyoufarm.com)
 
 <h3 align="left">
   <!-- <img src="https://herokuapp.com..." alt="Typing Effect" /> -->
   FULLSTACK DEVELOPER
 </h3> 
+
 
 
 ###
