@@ -12,12 +12,20 @@
 
 ###
 
+<!-- <div data-importer="stats" align="center"> -->
+  <!-- GitHub Profile Summary Card -->
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=govergu&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+  <!-- Top Languages Card -->
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govergu&layout=compact&theme=dracula&langs_count=5" height="150" alt="Top Languages" />
+</div> -->
+
 <div data-importer="stats" align="center">
   <!-- GitHub Profile Summary Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=govergu&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=govergu&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govergu&layout=compact&theme=dracula&langs_count=5" height="150" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=govergu&layout=compact&theme=dracula&langs_count=5" height="150" alt="Top Languages" />
 </div>
+
 
 ###
 
