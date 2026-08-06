@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <h1 style="margin: 0;">Hey 👋 Kritish Sainju Here</h1>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgovergu%2F&countColor=%23263759&style=flat-square&labelStyle=none" alt="Visitors">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthe-user-is-god%2F&countColor=%23263759&style=flat-square&labelStyle=none" alt="Visitors">
 </div>
 
 <h3 align="left">
@@ -21,9 +21,9 @@
 
 <div data-importer="stats" align="center">
   <!-- GitHub Profile Summary Card -->
-  <img src="https://github-stats-extended.vercel.app/api?username=govergu&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=the-user-is-god&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
   <!-- Top Languages Card -->
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=govergu&layout=compact&theme=dracula&langs_count=5" height="150" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=the-user-is-god&layout=compact&theme=dracula&langs_count=5" height="150" alt="Top Languages" />
 </div>
 
 
@@ -80,16 +80,16 @@
 
 <div align="center">
   <!-- Dynamic Contribution Graph Card -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=govergu&theme=dracula&bg_color=282a36&color=ff79c6&line=ff79c6&point=bd93f9&area=true&hide_border=false" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-user-is-god&theme=dracula&bg_color=282a36&color=ff79c6&line=ff79c6&point=bd93f9&area=true&hide_border=false" width="100%" alt="Contribution Graph" />
   <br /><br />
   <!-- Commit Streak Counter -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=govergu&theme=dracula&hide_border=false" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-user-is-god&theme=dracula&hide_border=false" alt="GitHub Streak" height="150"/>
 </div>
 
 ###
 
 <div data-importer="socials" align="left">
-  <a href="https://github.com/govergu"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" /></a>
+  <a href="https://github.com/the-user-is-god"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" /></a>
   <a href="https://linkedin.com/in/kritish-sainju/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
   <a href="mailto:kritishsainju2063@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
 </div>
