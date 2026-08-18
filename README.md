@@ -73,6 +73,7 @@
 *   **GlobeTrotter** – A full-scale travel management platform built with Next.js, Firebase, and interactive dynamic mapping powered by Leaflet.
 *   **Kaya Tattoo Studio Web Platform** – Design and production deployment of a bespoke, fully optimized brand interface.
 *   **Custom CMS Admin Panel** – An automated, internal content management system featuring a real-time professional PDF resume generation tool using `@react-pdf/renderer`.
+*   **Re Usable Backend**
 
 ###
 
